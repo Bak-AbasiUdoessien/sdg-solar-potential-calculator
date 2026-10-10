@@ -1,5 +1,7 @@
 # Solar Potential Calculator (SDG 7 + SDG 13)
 
+[![tests](https://github.com/Bak-AbasiUdoessien/sdg-solar-potential-calculator/actions/workflows/tests.yml/badge.svg)](https://github.com/Bak-AbasiUdoessien/sdg-solar-potential-calculator/actions/workflows/tests.yml)
+
 Millions of homes and businesses in Nigeria run petrol generators every day. Give this tool a location and it fetches **NASA's long-term sunlight data** for that spot, then estimates:
 - how much electricity a solar system would produce there, month by month
 - what system size you'd need for a given daily usage, sized for the **cloudiest** month
